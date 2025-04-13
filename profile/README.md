@@ -1,9 +1,9 @@
 ## Welcome to red-data-tools!
 
-[![Gitter](https://img.shields.io/gitter/room/red-data-tools/ja?color=ff2052&label=chat%20ja&logo=gitter&logoColor=gold&style=flat-square)](https://gitter.im/red-data-tools/ja)
-[![Gitter](https://img.shields.io/gitter/room/red-data-tools/en?color=ff2052&label=chat%20en&logo=gitter&logoColor=gold&style=flat-square)](https://gitter.im/red-data-tools/en)
+[![matrix](https://img.shields.io/matrix/room/red-data-tools_ja:gitter.im?color=ff2052&label=chat%20ja&logo=gitter&logoColor=gold&style=flat-square)](https://app.element.io/#/room/#red-data-tools_ja:gitter.im)
+[![matrix](https://img.shields.io/matrix/room/red-data-tools_en:gitter.im?color=ff2052&label=chat%20en&logo=gitter&logoColor=gold&style=flat-square)](https://app.element.io/#/room/#red-data-tools_en:gitter.im)
 
-@red-data-tools is a community effort to provide data processing tools for Ruby. 
+@red-data-tools is a community effort to provide data processing tools for Ruby.
 
 :wink: Come and say hi on our gitter!
 
